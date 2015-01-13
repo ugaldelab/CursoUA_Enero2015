@@ -42,6 +42,8 @@ Otro comando util es `pwd`, que nos permite saber en que directorio estamos ubic
     $ pwd
     /Users/juan
 
+Ahora pd
+
 
 
 
