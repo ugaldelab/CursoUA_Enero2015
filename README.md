@@ -10,12 +10,13 @@ El programa (flexible) del curso es:
 3. Si queda tiempo, expresiones regulares. Explicación y ejemplos.
 
 *Dia 2*
-Unix
-Analisis de secuencias
+1. Continuación del tutorial de UNIX. Incorporaremos algunas herramientas simples, como BLAST y alineamiento de secuencias.
+2. Trabajo con archivos de secuencias. Formatos mas comúnes, bases de datos, ejemplos, etc. 
 
 *Dia 3*
-Ensamble y anotación de genomas de microorganismos
-Introducción a metagenómica
+1. Ensamble y anotación de genomas de microorganismos. Desde el análisis de los datos crudos, hasta la anotación del genoma.
+2. Introducción a la metagenómica.
+metagenómica
 
 *Dia 4*
-Análisis de datos metagenómicos
+1. Análisis de datos metagenómicos
