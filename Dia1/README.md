@@ -42,7 +42,49 @@ Otro comando util es `pwd`, que nos permite saber en que directorio estamos ubic
     $ pwd
     /Users/juan
 
-Ahora pd
+si queremos ver que hay en un directorio, ocupamos `ls`, que significa listing:
+
+    ls
+
+    Applications    Downloads   Music       anaconda
+    BioApps     Dropbox     Pictures    perl5
+    Desktop     Library     Public      share
+    Documents   Movies      Viz     tools
+
+Podemos distinguir entre carpetas y archivos ocupando la opción '-F':
+
+    ls -F
+    Applications/   Downloads/  Music/      anaconda/
+    BioApps/    Dropbox/    Pictures/   perl5/
+    Desktop/    Library/    Public/     share/
+    Documents/  Movies/     Viz/        tools/
+
+Quizas un ejemplo no muy original, ya que solo hay directorios. Pero en la clase veremos variaciones de esto.
+
+Una lista de algunos comandos que vamos a explorar esta a continuación:
+
+- ls: listar archivos en la carpeta actual
+- pwd: carpeta absoluta actual
+- man: paginas de ayuda
+- mkdir: crea una nueva carpeta
+- cd: entrar a una carpeta
+- nano, gedit: editores de texto
+- cat: leer archivos por pantalla
+- less: mirar archivo
+- head: muestra el inicio de un archivo
+- tail: muestra el final de un archivo
+- cp: copiar archivos
+- mv: mueve archivos
+- cut: cortar columnas en un archivo
+- grep: busqueda de patrones en un archivo
+- wc: cuenta lineas, caracteres. etc
+- sort: ordernar filas de un archivo
+- uniq: ocurrencias unicas 
+- >,<,>>: redireccionar, recibir y agregar a un archivo
+- du: espacio ocupado
+- df: espacio libre
+
+
 
 
 
