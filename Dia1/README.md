@@ -83,7 +83,18 @@ Una lista de algunos comandos que vamos a explorar esta a continuación:
 - >,<,>>: redireccionar, recibir y agregar a un archivo
 - du: espacio ocupado
 - df: espacio libre
+- wget: permite bajar archivos remotos, usando la linea de comando
 
+## Servidores remotos
+
+Muchas veces es necesario hacer los análisis en servidores remotos, ya sea por que los datos se encuentran ahí, o mas importante, por la capacidad de cálculo del sistema.
+
+Suele suceder que los requisitos de espacio (disco duro), memoria y procesador, superan lo que uno puede tener en un computador personal y/o portatil.
+
+Por esto, es importante saber como conectarse a estos servidores remotos. Los comandos que exploraremos son:
+
+- Para conectarse a un servidor remoto, iniciando una sesion shell en ese servidor: `ssh USER@SERVIDOR` En donde USER es el nombre de usuario, y SERVIDOR es la dirección del servidor al que nos queremos conectar.
+- El comando `scp` nos permite copiar archivos desde o hacia nuestro computador (o entre computadores remotos).
 
 
 
