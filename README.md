@@ -13,11 +13,13 @@ El programa (flexible) del curso es:
 *Dia 2*
 
 Unix
+
 Analisis de secuencias
 
 *Dia 3*
 
 Ensamble y anotación de genomas de microorganismos
+
 Introducción a metagenómica
 
 *Dia 4*
