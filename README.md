@@ -8,16 +8,16 @@ El programa (flexible) del curso es:
 
 1. Introducción al analisis bioinformático. Breve descripción del estado del arte. Herramientas y recursos disponibles en la web. Tecnologías de secuenciación.
 2. Introduccion al terminal de UNIX. Comandos básicos a utilizar, navegación de directorios, busqueda de información y ejecución de programas.
-3. Si queda tiempo, expresiones regulares. Explicación y ejemplos.
+3. Conección a servidores remotos.
+3. Introducción a secuenciación y metagenómica.
 
 *Dia 2*
 1. Continuación del tutorial de UNIX. Incorporaremos algunas herramientas simples, como BLAST y alineamiento de secuencias.
-2. Trabajo con archivos de secuencias. Formatos mas comúnes, bases de datos, ejemplos, etc. 
+2. Trabajo con archivos de secuencias. Formatos mas comúnes, bases de datos, ejemplos, etc. Veremos algunas de las herramientas que se pueden ocupar para filtrar y explorar secuencias (FastQC, seqtk, Trimmomatic, etc). 
 
 *Dia 3*
 1. Ensamble y anotación de genomas de microorganismos. Desde el análisis de los datos crudos, hasta la anotación del genoma.
-2. Introducción a la metagenómica.
-metagenómica
+2. Metagenomica
 
 *Dia 4*
 1. Análisis de datos metagenómicos
